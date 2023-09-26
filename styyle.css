@@ -11,7 +11,7 @@
 body {
 
     font-family: "Sarabun", sans-serif;
-    background: var(--BG-color, #00050a);
+    background: var(--BG-color, #000000);
 }
 
 header {
